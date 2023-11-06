@@ -24,11 +24,11 @@ To run this project, you will need the following requirements:
 
 1. Download or clone the project files:
 
-`git clone git@github.com:naknc/Exchange-Rates.git`
+```git clone git@github.com:naknc/Exchange-Rates.git```
 
 2. Navigate to the project folder:
 
-`cd Exchange-Rates`
+```cd Exchange-Rates```
 
 ## Data Retrieval
 
@@ -42,7 +42,7 @@ To retrieve exchange rate data, follow these steps:
 
 Example usage:
 
-`php doviz.php`
+``php doviz.php```
 
 ## Contribution
 
