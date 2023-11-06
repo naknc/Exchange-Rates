@@ -43,7 +43,7 @@ To retrieve exchange rate data, follow these steps:
 Example usage:
 
 php doviz.php
-
+```
 ## Contribution
 
 This project is open to all kinds of contributions. Please download the project files and make changes in a local development environment, and then create a pull request to share your changes.
@@ -59,6 +59,6 @@ If you encounter any issues while using the project or need further assistance, 
 - Email: nihan.akinci.35@gmail.com
 - GitHub: [GitHub Project](https://github.com/naknc/Exchange-Rates)
 
-This README file provides a basic guide to get started with the Exchange Rate Data Retrieval Project. For more details and documentation related to the project, refer to the documentation included within the project folder.
+This README file provides a basic guide to get started with the Exchange Rate Data Retrieval Project.
 
 Wishing you success and enjoyable work on the project!
