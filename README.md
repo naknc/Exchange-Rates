@@ -24,11 +24,11 @@ To run this project, you will need the following requirements:
 
 1. Download or clone the project files:
 
-git clone git@github.com:naknc/Exchange-Rates.git
+`git clone git@github.com:naknc/Exchange-Rates.git`
 
 2. Navigate to the project folder:
 
-cd Exchange-Rates
+`cd Exchange-Rates`
 
 ## Data Retrieval
 
@@ -42,8 +42,8 @@ To retrieve exchange rate data, follow these steps:
 
 Example usage:
 
-php doviz.php
-```
+`php doviz.php`
+
 ## Contribution
 
 This project is open to all kinds of contributions. Please download the project files and make changes in a local development environment, and then create a pull request to share your changes.
@@ -59,6 +59,6 @@ If you encounter any issues while using the project or need further assistance, 
 - Email: nihan.akinci.35@gmail.com
 - GitHub: [GitHub Project](https://github.com/naknc/Exchange-Rates)
 
-This README file provides a basic guide to get started with the Exchange Rate Data Retrieval Project.
+This README file provides a basic guide to get started with the Exchange Rate Data Retrieval Project. 
 
 Wishing you success and enjoyable work on the project!
