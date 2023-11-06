@@ -34,7 +34,7 @@ cd Exchange-Rates
 
 To retrieve exchange rate data, follow these steps:
 
-1. In the project folder, open the `exchange_rate.php` PHP script.
+1. In the project folder, open the `doviz.php` PHP script.
 
 2. Update the PHP script using the knowledge you gained from the Udemy course on how to fetch JSON data.
 
