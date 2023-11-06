@@ -42,7 +42,7 @@ To retrieve exchange rate data, follow these steps:
 
 Example usage:
 
-php exchange_rate.php
+php doviz.php
 
 ## Contribution
 
